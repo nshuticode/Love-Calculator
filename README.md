@@ -1,16 +1,5 @@
 ## Love Calculator
 
-# UPDATE
-We've moved away from repl.it for coding exercises.
-Check out the new exercises on Coding Rooms with automated submissions.
-
-Login to your Udemy course and head over to the link below to get the sign up link:
-
-[Click here](https://www.udemy.com/course/100-days-of-code/learn/lecture/17825914#questions)
-
-# 💪 This is a Difficult Challenge 💪
-
-# Instructions
 
 You are going to write a program that tests the compatibility between two people.  
 
@@ -114,18 +103,3 @@ The testing code will check for print output that is formatted like one of the l
 
 [https://stackoverflow.com/questions/1155617/count-the-number-occurrences-of-a-character-in-a-string](https://stackoverflow.com/questions/1155617/count-the-number-occurrences-of-a-character-in-a-string)
 
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-3-5-test-your-code](https://repl.it/@appbrewery/day-3-5-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-
-
-
-
-# Solution
-
-[https://repl.it/@appbrewery/day-3-5-solution](https://repl.it/@appbrewery/day-3-5-solution)
