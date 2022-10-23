@@ -5,27 +5,27 @@ name2 = input("What is their name? \n")
 #changing to lower function to be able to count all char
 name_1 = name1.lower()
 name_2 = name2.lower()
+name_conca = name1 + name2
+
 # Counting word "True"
-t = name_1.count("t")
-r = name_1.count("r")
-u = name_1.count("u")
-e = name_1.count("e")
-total1 = 0
-total1 = total1 + t + r + u + e
+t = name_conca.count("t")
+r = name_conca.count("r")
+u = name_conca.count("u")
+e = name_conca.count("e")
+
+true = t + r + u + e
 
 #Counting word  "Love"
-l = name_2.count("l")
-o = name_2.count("o")
-v = name_2.count("v")
-e = name_2.count("e")
-total2 = 0
-total2 = total2 + l + o + v + e
+l = name_conca.count("l")
+o = name_conca.count("o")
+v = name_conca.count("v")
+e = name_conca.count("e")
 
-love_score1 = str(total1)
-love_score2 = str(total2)
-love_score = love_score1 + love_score1
+love = l + o + v + e
 
+love_score =  str(true) + str(love)
 total_love_score = int(love_score)
+
 #Display message
 if (total_love_score < 10) or (total_love_score > 90):
   print(f"Your score is {total_love_score} , you go together like coke and mentos ")
